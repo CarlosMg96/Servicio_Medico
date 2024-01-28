@@ -1,0 +1,8 @@
+body {
+    padding-top: 56px; /* Para dejar espacio para el navbar fijo en la parte superior */
+}
+
+/* Ajuste para que el sidebar ocupe toda la altura en pantallas grandes */
+.sidebar {
+    height: 100vh;
+}

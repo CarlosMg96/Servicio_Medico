@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    /* Otros estilos para tu proyecto */
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    color: aqua;
+    height: auto;
+}

@@ -1,0 +1,17 @@
+ul {
+  list-style-type: none;
+}
+
+.linea {
+  border-top: 1px solid #fff;
+  margin-top: 15px;
+}
+
+.card {
+  height: 590px !important;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  border-color: white !important;
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2) !important;
+}
